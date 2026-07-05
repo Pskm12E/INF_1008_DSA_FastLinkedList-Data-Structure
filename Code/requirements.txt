@@ -1,0 +1,19 @@
+# Python dependencies for Huffman Coding Project
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Code formatting and linting
+black==23.12.1
+pylint==3.0.3
+
+# Visualization
+matplotlib==3.8.2
+networkx==3.2.1
+
+# Type checking (optional)
+mypy==1.8.0
+
+# Additional utilities
+colorama==0.4.6
